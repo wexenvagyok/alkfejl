@@ -1,0 +1,14 @@
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\bin\Debug\net8.0\oop-gyakorlas-12-11.exe
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\bin\Debug\net8.0\oop-gyakorlas-12-11.deps.json
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\bin\Debug\net8.0\oop-gyakorlas-12-11.runtimeconfig.json
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\bin\Debug\net8.0\oop-gyakorlas-12-11.dll
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\bin\Debug\net8.0\oop-gyakorlas-12-11.pdb
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.AssemblyInfoInputs.cache
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.AssemblyInfo.cs
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.csproj.CoreCompileInputs.cache
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.dll
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\refint\oop-gyakorlas-12-11.dll
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.pdb
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\oop-gyakorlas-12-11.genruntimeconfig.cache
+C:\Users\farkasb22\source\repos\oop-gyakorlas-12-11\obj\Debug\net8.0\ref\oop-gyakorlas-12-11.dll
