@@ -1,4 +1,0 @@
-C:\Users\farkasb22\source\repos\Titanic\obj\Debug\net8.0\Titanic.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\farkasb22\source\repos\Titanic\obj\Debug\net8.0\Titanic.AssemblyInfoInputs.cache
-C:\Users\farkasb22\source\repos\Titanic\obj\Debug\net8.0\Titanic.AssemblyInfo.cs
-C:\Users\farkasb22\source\repos\Titanic\obj\Debug\net8.0\Titanic.csproj.CoreCompileInputs.cache
