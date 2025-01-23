@@ -1,0 +1,15 @@
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.AssemblyInfoInputs.cache
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.AssemblyInfo.cs
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.csproj.CoreCompileInputs.cache
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.sourcelink.json
+D:\GITT\alkfejl\kraterek\bin\Debug\net8.0\kraterek.exe
+D:\GITT\alkfejl\kraterek\bin\Debug\net8.0\kraterek.deps.json
+D:\GITT\alkfejl\kraterek\bin\Debug\net8.0\kraterek.runtimeconfig.json
+D:\GITT\alkfejl\kraterek\bin\Debug\net8.0\kraterek.dll
+D:\GITT\alkfejl\kraterek\bin\Debug\net8.0\kraterek.pdb
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.dll
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\refint\kraterek.dll
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.pdb
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\kraterek.genruntimeconfig.cache
+D:\GITT\alkfejl\kraterek\obj\Debug\net8.0\ref\kraterek.dll

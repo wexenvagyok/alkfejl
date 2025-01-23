@@ -26,5 +26,10 @@ namespace kraterek
         {
             return $"A(z) {nev} középpontja X={x} Y={y} sugara R={r}.";
         }
+
+        public double tavolsag(Krater masik)
+        {
+
+        }
     }
 }

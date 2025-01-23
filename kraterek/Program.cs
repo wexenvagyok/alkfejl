@@ -29,6 +29,19 @@
                 }
             }
             Console.WriteLine(szoveg);
+
+            Console.WriteLine("4. feladat");
+
+            Krater legnagyobb=kraterek[0];
+            for (int i = 0; 1 < kraterek.Count; i++)
+            {
+                if (kraterek[i].r > legnagyobb.r)
+                {
+                    legnagyobb = kraterek[i];
+                }
+            }
+            Console.WriteLine("A legnagyobb kráterek neve és sugara: {0} {1}",legnagyobb.nev, legnagyobb.r);
+
         }
     }
 }
