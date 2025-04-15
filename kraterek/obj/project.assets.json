@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\farkasb22\\source\\repos\\kraterek\\kraterek.csproj",
+      "projectUniqueName": "C:\\GIT\\alkfejl\\kraterek\\kraterek.csproj",
       "projectName": "kraterek",
-      "projectPath": "C:\\Users\\farkasb22\\source\\repos\\kraterek\\kraterek.csproj",
+      "projectPath": "C:\\GIT\\alkfejl\\kraterek\\kraterek.csproj",
       "packagesPath": "C:\\Users\\farkasb22\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\farkasb22\\source\\repos\\kraterek\\obj\\",
+      "outputPath": "C:\\GIT\\alkfejl\\kraterek\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\farkasb22\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -29,7 +29,9 @@ namespace kraterek
 
         public double tavolsag(Krater masik)
         {
-
+            double dx = this.x = masik.x;
+            double dy = this.y = masik.y;
+            return Math.Sqrt(dx * dx + dy * dy);
         }
     }
 }
