@@ -1,0 +1,29 @@
+﻿<Window x:Class="konyvek.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:konyvek"
+        mc:Ignorable="d"
+        Title="legkomolyabbpro-gramm" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="299*"/>
+            <ColumnDefinition Width="101*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="69,39,0,0" TextWrapping="Wrap" Text="Szerző neve" VerticalAlignment="Top"/>
+        <TextBox x:Name="szerzoNev" HorizontalAlignment="Left" Margin="137,39,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="167" Height="16"/>
+        <Button Content="Futtatás" HorizontalAlignment="Left" Margin="309,37,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBlock x:Name="masodikKiir" HorizontalAlignment="Left" Margin="139,69,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="167"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,69,0,0" TextWrapping="Wrap" Text="Keresés eredménye:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="2,85,0,0" TextWrapping="Wrap" Text="Legnagyobb kiadott (3.f):" VerticalAlignment="Top"/>
+        <Button Content="Futtatás" HorizontalAlignment="Left" Margin="309,86,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <TextBlock x:Name="harmadikKiir" HorizontalAlignment="Left" Margin="139,90,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165"/>
+        <TextBlock x:Name="negyedikKiir" HorizontalAlignment="Left" Margin="141,146,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="165"/>
+        <TextBlock HorizontalAlignment="Left" Margin="2,146,0,0" TextWrapping="Wrap" Text="Négyes feladat:" VerticalAlignment="Top"/>
+        <Button Content="Futtatás" HorizontalAlignment="Left" Margin="309,146,0,0" VerticalAlignment="Top" Width="46" Click="Button_Click_2"/>
+        <ListBox x:Name="adattabla" Margin="412,27,22,278" Grid.ColumnSpan="2"/>
+        <Button Content="Futtatás" HorizontalAlignment="Left" Margin="412,161,0,0" VerticalAlignment="Top" Width="366" Click="Button_Click_3" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
