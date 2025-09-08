@@ -1,0 +1,14 @@
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.AssemblyInfoInputs.cache
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.AssemblyInfo.cs
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.csproj.CoreCompileInputs.cache
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\bin\Debug\net8.0\fajlbaIrasRandommal.exe
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\bin\Debug\net8.0\fajlbaIrasRandommal.deps.json
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\bin\Debug\net8.0\fajlbaIrasRandommal.runtimeconfig.json
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\bin\Debug\net8.0\fajlbaIrasRandommal.dll
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\bin\Debug\net8.0\fajlbaIrasRandommal.pdb
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.dll
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\refint\fajlbaIrasRandommal.dll
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.pdb
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\fajlbaIrasRandommal.genruntimeconfig.cache
+C:\Users\farkas.balazs.22\source\repos\fajlbaIrasRandommal\fajlbaIrasRandommal\obj\Debug\net8.0\ref\fajlbaIrasRandommal.dll
