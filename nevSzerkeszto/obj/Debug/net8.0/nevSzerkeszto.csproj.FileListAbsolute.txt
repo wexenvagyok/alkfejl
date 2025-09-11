@@ -1,0 +1,14 @@
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\bin\Debug\net8.0\nevSzerkeszto.exe
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\bin\Debug\net8.0\nevSzerkeszto.deps.json
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\bin\Debug\net8.0\nevSzerkeszto.runtimeconfig.json
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\bin\Debug\net8.0\nevSzerkeszto.dll
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\bin\Debug\net8.0\nevSzerkeszto.pdb
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.AssemblyInfoInputs.cache
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.AssemblyInfo.cs
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.csproj.CoreCompileInputs.cache
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.dll
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\refint\nevSzerkeszto.dll
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.pdb
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\nevSzerkeszto.genruntimeconfig.cache
+C:\Users\farkas.balazs.22\source\repos\nevSzerkeszto\obj\Debug\net8.0\ref\nevSzerkeszto.dll
