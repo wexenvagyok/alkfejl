@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2745C-7240-4F20-8160-527C7B775673}|latintanc.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2745C-7240-4F20-8160-527C7B775673}|latintanc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2745C-7240-4F20-8160-527C7B775673}|latintanc.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\tanc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2745C-7240-4F20-8160-527C7B775673}|latintanc.csproj|solutionrelative:tanc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F2745C-7240-4F20-8160-527C7B775673}|latintanc.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F2745C-7240-4F20-8160-527C7B775673}|latintanc.csproj|solutionrelative:adatkezeles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tanc.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\Tanc.cs",
+              "RelativeDocumentMoniker": "Tanc.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\Tanc.cs",
+              "RelativeToolTip": "Tanc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:18:12.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adatkezeles.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\Adatkezeles.cs",
+              "RelativeDocumentMoniker": "Adatkezeles.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\Adatkezeles.cs",
+              "RelativeToolTip": "Adatkezeles.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:03:50.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\szisharp\\latintanc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T08:58:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

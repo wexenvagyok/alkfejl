@@ -1,0 +1,15 @@
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\bin\Debug\net8.0\latintanc.exe
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\bin\Debug\net8.0\latintanc.deps.json
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\bin\Debug\net8.0\latintanc.runtimeconfig.json
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\bin\Debug\net8.0\latintanc.dll
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\bin\Debug\net8.0\latintanc.pdb
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.AssemblyInfoInputs.cache
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.AssemblyInfo.cs
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.csproj.CoreCompileInputs.cache
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.sourcelink.json
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.dll
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\refint\latintanc.dll
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.pdb
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\latintanc.genruntimeconfig.cache
+C:\Users\farkas.balazs.22\source\repos\szisharp\latintanc\obj\Debug\net8.0\ref\latintanc.dll
