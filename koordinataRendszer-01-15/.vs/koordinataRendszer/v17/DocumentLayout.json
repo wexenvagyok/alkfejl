@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2514887-9A60-458C-95F8-26F9910A94BD}|koordinataRendszer\\koordinataRendszer.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\koordinatarendszer\\koordinatarendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2514887-9A60-458C-95F8-26F9910A94BD}|koordinataRendszer\\koordinataRendszer.csproj|solutionrelative:koordinatarendszer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2514887-9A60-458C-95F8-26F9910A94BD}|koordinataRendszer\\koordinataRendszer.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\koordinatarendszer\\koordinatarendszer\\pont3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2514887-9A60-458C-95F8-26F9910A94BD}|koordinataRendszer\\koordinataRendszer.csproj|solutionrelative:koordinatarendszer\\pont3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2514887-9A60-458C-95F8-26F9910A94BD}|koordinataRendszer\\koordinataRendszer.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\koordinatarendszer\\koordinatarendszer\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2514887-9A60-458C-95F8-26F9910A94BD}|koordinataRendszer\\koordinataRendszer.csproj|solutionrelative:koordinatarendszer\\pont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pont3d.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\koordinataRendszer\\Pont3d.cs",
+              "RelativeDocumentMoniker": "koordinataRendszer\\Pont3d.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\koordinataRendszer\\Pont3d.cs",
+              "RelativeToolTip": "koordinataRendszer\\Pont3d.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T10:21:23.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pont.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\koordinataRendszer\\Pont.cs",
+              "RelativeDocumentMoniker": "koordinataRendszer\\Pont.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\koordinataRendszer\\Pont.cs",
+              "RelativeToolTip": "koordinataRendszer\\Pont.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA5wD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:49:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\koordinataRendszer\\Program.cs",
+              "RelativeDocumentMoniker": "koordinataRendszer\\Program.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\koordinataRendszer\\koordinataRendszer\\Program.cs",
+              "RelativeToolTip": "koordinataRendszer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:47:53.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
