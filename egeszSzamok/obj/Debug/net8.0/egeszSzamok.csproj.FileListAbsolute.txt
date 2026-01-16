@@ -1,0 +1,14 @@
+C:\Users\wexen\source\repos\egeszSzamok\bin\Debug\net8.0\egeszSzamok.exe
+C:\Users\wexen\source\repos\egeszSzamok\bin\Debug\net8.0\egeszSzamok.deps.json
+C:\Users\wexen\source\repos\egeszSzamok\bin\Debug\net8.0\egeszSzamok.runtimeconfig.json
+C:\Users\wexen\source\repos\egeszSzamok\bin\Debug\net8.0\egeszSzamok.dll
+C:\Users\wexen\source\repos\egeszSzamok\bin\Debug\net8.0\egeszSzamok.pdb
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.AssemblyInfoInputs.cache
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.AssemblyInfo.cs
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.csproj.CoreCompileInputs.cache
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.dll
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\refint\egeszSzamok.dll
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.pdb
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\egeszSzamok.genruntimeconfig.cache
+C:\Users\wexen\source\repos\egeszSzamok\obj\Debug\net8.0\ref\egeszSzamok.dll
