@@ -50,5 +50,79 @@ namespace egeszSzamok
         {
             return string.Join(", ", this.szamok);
         }
+
+        public static Szamok operator -(Szamok egyik, Szamok masik)
+        {
+            List<int> ujSzamok = new List<int>(egyik.szamok);
+
+            for (int i = 0; i < masik.szamok.Count; i++)
+            {
+                ujSzamok.Remove(masik.szamok[i]);
+            }
+
+            return new Szamok(ujSzamok.ToArray());
+        }
+
+        public static Szamok operator -(Szamok egyik, int masik)
+        {
+            List<int> ujSzamok = new List<int>(egyik.szamok);
+            
+            ujSzamok.Remove(masik);
+
+            return new Szamok(ujSzamok.ToArray());
+        }
+
+        public static int operator -(int szam, Szamok szamok)
+        {
+            return szam - szamok.szamok.Sum();
+        }
+
+
+        /*1,2,3,4
+          1,2
+
+          1,4*/
+        public static Szamok operator *(Szamok egyik, Szamok masik)
+        {
+            List <int> ujSzamok = new List<int>();
+
+            if (egyik.szamok.Count < masik.szamok.Count)
+            {
+
+                for (int i = 0; i < masik.szamok.Count; i++)
+                {
+                    ujSzamok.Add(egyik.szamok[i] * masik.szamok[i]);
+                }
+            }
+
+            //ELSŐ PÉLDA
+            /*else
+            {
+                for (int i = 0; i < masik.szamok.Count; i++)
+                {
+                    ujSzamok.Add(egyik.szamok[i] * masik.szamok[i]);
+                }   
+            }*/
+
+
+            //MÁSODIK PÉLDA
+            int meddig = Math.Min(egyik.szamok.Count, masik.szamok.Count);
+
+            for (int i = 0; i < meddig; i++)
+            {
+                ujSzamok.Add(egyik.szamok[i] * masik.szamok[i]);
+            }
+
+            //HARMADIK PÉLDA
+            for (int i = 0; i < meddig; i++)
+            {
+                try
+                {
+                    ujSzamok.Add(egyik.szamok[i] * masik.szamok[i]);
+                }
+                catch { }
+            }
+
+        }
     }
 }

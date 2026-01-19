@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wexen\\source\\repos\\egeszSzamok\\",
+  "WorkspaceRootPath": "C:\\Users\\farkas.balazs.22\\source\\repos\\egeszSzamok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9C74F3D-41F7-40B2-8050-3E2BE2009BE5}|egeszSzamok.csproj|c:\\users\\wexen\\source\\repos\\egeszszamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C74F3D-41F7-40B2-8050-3E2BE2009BE5}|egeszSzamok.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\egeszszamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C74F3D-41F7-40B2-8050-3E2BE2009BE5}|egeszSzamok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9C74F3D-41F7-40B2-8050-3E2BE2009BE5}|egeszSzamok.csproj|c:\\users\\wexen\\source\\repos\\egeszszamok\\szamok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9C74F3D-41F7-40B2-8050-3E2BE2009BE5}|egeszSzamok.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\egeszszamok\\szamok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9C74F3D-41F7-40B2-8050-3E2BE2009BE5}|egeszSzamok.csproj|solutionrelative:szamok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,17 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Szamok.cs",
-              "DocumentMoniker": "C:\\Users\\wexen\\source\\repos\\egeszSzamok\\Szamok.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\egeszSzamok\\Szamok.cs",
               "RelativeDocumentMoniker": "Szamok.cs",
-              "ToolTip": "C:\\Users\\wexen\\source\\repos\\egeszSzamok\\Szamok.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\egeszSzamok\\Szamok.cs",
               "RelativeToolTip": "Szamok.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:11:34.999Z",
               "EditorCaption": ""
@@ -37,18 +45,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wexen\\source\\repos\\egeszSzamok\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\egeszSzamok\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\wexen\\source\\repos\\egeszSzamok\\Program.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\egeszSzamok\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T07:59:36.473Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
