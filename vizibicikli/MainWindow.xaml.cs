@@ -23,9 +23,47 @@ namespace vizibicikli
             Betolt();
         }
 
+        List<Kolcsonzes> kolcsonzesek = new List<Kolcsonzes>();
+
         public void Betolt()
         {
             string[] sorok = File.ReadAllLines("kolcsonzesek.txt");
+
+            foreach (string sor in sorok.Skip(1))
+            {
+                kolcsonzesek.Add(new Kolcsonzes(sor));
+            }
+
+            //MessageBox.Show($"{kolcsonzesek.Count}");
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            eredmeny2.Content = $"{kolcsonzesek.Count}";
+        }
+
+        private void bekertNev_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var szures = kolcsonzesek
+                .Where(x => x.Nev == bekertNev.Text)
+                .Select(x => x.idotartam())
+                .ToList();
+
+            if (szures.Count == 0)
+            {
+                hiba6.Content = "Nincs ilyen nevű!";
+            }
+            else
+            {
+                hiba6.Content = "";
+                eredmeny6.ItemsSource = szures;
+
+            }
         }
     }
 }

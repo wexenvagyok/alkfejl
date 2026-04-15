@@ -35,5 +35,20 @@ namespace vizibicikli
             PercBe = int.Parse(vag[5]);
         }
 
+        public string idoKi()
+        {
+            return $"{OraKi}:{PercKi}:00";
+        }
+
+        public string idoBe()
+        {
+            return $"{OraBe}:{PercBe}:00";
+        }
+
+        public string idotartam()
+        {
+            return idoKi()+"-" + idoBe();
+        }
+
     }
 }

@@ -19,3 +19,4 @@ C:\Users\farkas.balazs.22\source\repos\szisharp\vizibicikli\obj\Debug\net8.0-win
 C:\Users\farkas.balazs.22\source\repos\szisharp\vizibicikli\obj\Debug\net8.0-windows\vizibicikli.pdb
 C:\Users\farkas.balazs.22\source\repos\szisharp\vizibicikli\obj\Debug\net8.0-windows\vizibicikli.genruntimeconfig.cache
 C:\Users\farkas.balazs.22\source\repos\szisharp\vizibicikli\obj\Debug\net8.0-windows\ref\vizibicikli.dll
+C:\Users\farkas.balazs.22\source\repos\szisharp\vizibicikli\bin\Debug\net8.0-windows\kolcsonzesek.txt
