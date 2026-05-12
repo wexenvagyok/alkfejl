@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|solutionrelative:vercukor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|solutionrelative:vercukor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\vercukor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|solutionrelative:vercukor\\vercukor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|c:\\users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E454D7B1-4381-44C2-A2B8-F9AE49496F52}|vercukor\\vercukor.csproj|solutionrelative:vercukor\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adatok.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\Adatok.cs",
+              "RelativeDocumentMoniker": "vercukor\\Adatok.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\Adatok.cs",
+              "RelativeToolTip": "vercukor\\Adatok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:17:32.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vercukor",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\vercukor.csproj",
+              "RelativeDocumentMoniker": "vercukor\\vercukor.csproj",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\vercukor.csproj",
+              "RelativeToolTip": "vercukor\\vercukor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T08:05:07.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "vercukor\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\MainWindow.xaml",
+              "RelativeToolTip": "vercukor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T08:04:14.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "vercukor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\farkas.balazs.22\\source\\repos\\vercukor\\vercukor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "vercukor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T08:04:11.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
